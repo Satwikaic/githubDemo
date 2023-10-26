@@ -27,7 +27,7 @@ public class LaunchOrangeHrmTest
 		
 		Homepage homePage = new Homepage(driver);
 		homePage.clickOrangeHrmInc();
-		System.out.println("github commit");
+	
 	}
 
 }
